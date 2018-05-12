@@ -1,2 +1,3 @@
-# Monospace-Garden
-Research-based physics game.
+# Monospace Garden
+
+_Monospace Garden_ is a research-based physics game in Unity.
